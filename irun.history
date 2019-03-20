@@ -1,0 +1,7 @@
+s1(13Mar2019:08:31:55):  irun -access +rwc top_cpu.v 
+s2(13Mar2019:08:32:40):  irun -access +rwc top_cpu.v alu_top.v register_file1.v 
+s3(13Mar2019:08:33:42):  irun -access +rwc top_cpu.v alu_top.v register_file1.v 
+s4(13Mar2019:08:34:28):  irun -access +rwc top_cpu.v alu_top.v register_file1.v 
+s5(13Mar2019:08:37:00):  irun -access +rwc -f compile.f 
+s6(13Mar2019:08:38:08):  irun -access +rwc -f compile.f 
+s7(13Mar2019:08:39:13):  irun -access +rwc -f compile.f 

@@ -1,0 +1,27 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/adder_top.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/dpa_new_1.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/div2.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/and.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/or.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/xor.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/nand.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/nor.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/xnor.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/SLL.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/SRL.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/SAR.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/ROR.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/ROL.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/not.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/alu_top.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/topMod_02.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/wallaceTree_8PP.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/pp_8_Gen.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/cla.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/top_cpu.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/register_file1.v
+/home/vv2trainee20/Desktop/singlecycleprocessor/rtl/demux32_1.v
